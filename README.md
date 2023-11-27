@@ -2,7 +2,7 @@
 
 This repository contains two Python scripts that demonstrate how to use Instructor Embeddings and Langchain to create a retrieval-based question answering (QA) system for an educational context.
 
-##Scripts
+#Scripts
 
 ###langchain_helper.py: This script contains two functions:
 
